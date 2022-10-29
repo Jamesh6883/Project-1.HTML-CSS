@@ -1,0 +1,35 @@
+
+h3{
+    color:#b72337;
+
+}
+
+body{
+    text-align: center;
+    background-color:#e8e7e7;
+    font-family:'Trebuchet MS';
+    font-weight:545;
+    scroll-behavior: smooth;
+    
+}
+
+table{
+    margin-right:auto;
+    margin-left: auto;
+}
+
+#map {
+    height: 100%;
+    width: 100%;
+    border: 5px;
+}
+
+#links {
+    color:rgb(61, 59, 59);
+    font-family:calibri;
+}
+
+#footer{
+    font-family:papyrus;
+    font-size: x-small;
+}
