@@ -13,6 +13,6 @@ I contacted my friends and they sent me their logo to use for the site.
 
 The site has four Sections: Information, Opening Hours, Menu and Contact Information. 
 -I used internal links to navigate between the various sections. Defining each section.
--I gave each link name (except home) a question which the section the user would be brought to would have said question answered. E.G."When are we open?" brings the user to the 'Opening Hours' section.![Chapter 5 Barbers-5 copy](https://user-images.githubusercontent.com/111524861/198842765-f6d74e98-7bf8-4142-85ee-49083375c8d0.PNG)
+-I gave each link name (except home) a question which the section the user would be brought to would have said question answered. E.G."When are we open?" brings the user to the 'Opening Hours' section.
 
 To convey the menu and opening hours I used tables and made sure to keep them centred with the text. I centralized the text to keep the feeling of the experience fresh and open.
