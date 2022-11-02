@@ -1,4 +1,4 @@
-# Project-1.HTML-CSS
+Project-1.HTML-CSS
 First Project (html &amp; css)
 For this project, I wanted to create a simple informative website for my friends' barbershop.
 The primary function of the website is to convey their information i.e contact information and menu.
